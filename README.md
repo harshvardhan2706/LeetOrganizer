@@ -338,3 +338,7 @@ It motivates future improvements and helps others discover the project.
 <p align="center">
 Made with ❤️ using Java
 </p>
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
