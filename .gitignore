@@ -1,0 +1,21 @@
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Launch4j
+*.xml.l4j.ini
+
+# Temporary
+*.tmp
